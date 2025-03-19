@@ -1,0 +1,60 @@
+# Maven target directory
+/target/
+
+/*.dbeaver
+.factorypath
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Generated files
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Windows specific files
+*.bat
+*.cmd
+
+# macOS specific files
+*.DS_Store
+
+# Linux specific files
+*~
+
+# Other IDEs and tools
+.vscode/
+.idea/
+*.swp
+*.swo
